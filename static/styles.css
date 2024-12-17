@@ -1,0 +1,32 @@
+body{
+    background-color: #1E201E;
+    color: #ECDFCC;
+}
+
+nav{
+    background-color: #697565;
+}
+
+.navbar-brand{
+    color: #ECDFCC;
+    font-size: 40px;
+}
+
+form{
+    margin: 20px 10px;
+}
+
+.btn-primary{
+    background-color: #697565;
+    border-color: #697565;
+}
+
+.btn-primary:hover{
+    background-color: #3C3D37;
+    border-color: #3C3D37;
+}
+
+.container{
+    margin: 20px auto;
+}
+
